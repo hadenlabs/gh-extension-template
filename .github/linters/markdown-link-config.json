@@ -1,11 +1,11 @@
 {
-  "baseUrl": "https://github.com/hadenlabs/base-template",
+  "baseUrl": "https://github.com/hadenlabs/gh-extension-template",
   "ignorePatterns": [
     {
       "pattern": "^https://hadenlabs.com"
     },
     {
-      "pattern": "^https://github.com/hadenlabs/base-template/compare"
+      "pattern": "^https://github.com/hadenlabs/gh-extension-template/compare"
     }
   ],
   "replacementPatterns": [

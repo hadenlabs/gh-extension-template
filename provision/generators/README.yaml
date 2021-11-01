@@ -5,14 +5,14 @@
 #
 
 # Name of this project
-name: base-template
+name: gh-extension-template
 
 email:
   support: support@hadenlabs.com
 
 confluence:
-  space: BaseTemplate
-  title: readme
+  space: GhExtensionTemplate
+  title: Project
 
 # Logo for this project
 #logo: docs/logo.png
@@ -21,16 +21,16 @@ confluence:
 license: 'LGPL-3.0'
 
 # Canonical GitHub repo
-github_repo: hadenlabs/base-template
+github_repo: hadenlabs/gh-extension-template
 
 # Badges to display
 badges:
   - name: Latest Release
-    image: https://img.shields.io/github/release/hadenlabs/base-template
-    url: https://github.com/hadenlabs/base-template/releases
+    image: https://img.shields.io/github/release/hadenlabs/gh-extension-template
+    url: https://github.com/hadenlabs/gh-extension-template/releases
   - name: Lint
-    image: https://img.shields.io/github/workflow/status/hadenlabs/base-template/lint-code
-    url: https://github.com/hadenlabs/base-template/actions?workflow=lint-code
+    image: https://img.shields.io/github/workflow/status/hadenlabs/gh-extension-template/lint-code
+    url: https://github.com/hadenlabs/gh-extension-template/actions?workflow=lint-code
   - name: pre-commit
     image: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
     url: https://github.com/pre-commit/pre-commit
@@ -53,10 +53,11 @@ requirements: |-
 # Short description of this project
 description: |-
 
-  base-template for project
+  gh-extension-template for project
 
   ### Replace name project to New Project
 
   ```bash
-    agr 'base-template' 'new-project'
+    agr 'gh-extension-template' 'new-project'
+    agr 'GhExtensionTemplate' 'NewProject'
   ```
