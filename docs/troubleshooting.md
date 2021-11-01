@@ -1,8 +1,8 @@
-<!-- Space: BaseTemplate -->
+<!-- Space: GhExtensionTemplate -->
 <!-- Parent: Project -->
 <!-- Title: Troubleshooting -->
 
-<!-- Label: BaseTemplate -->
+<!-- Label: GhExtensionTemplate -->
 <!-- Label: Project -->
 <!-- Label: Troubleshooting -->
 <!-- Include: docs/disclaimer.md -->

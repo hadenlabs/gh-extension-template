@@ -1,4 +1,4 @@
-site_name: base-template Documentation
+site_name: gh-extension-template Documentation
 theme: 'material'
 markdown_extensions:
   - toc:
@@ -15,8 +15,8 @@ extra:
   font:
     text: 'Source Sans Pro'
 
-repo_name: 'hadenlabs/base-template'
-repo_url: 'https://github.com/hadenlabs/base-template'
+repo_name: 'hadenlabs/gh-extension-template'
+repo_url: 'https://github.com/hadenlabs/gh-extension-template'
 copyright: 'Copyright © 2021 <a href="https://hadenlabs.com">hadenlabs</a>'
 
 google_analytics:

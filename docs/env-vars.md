@@ -1,8 +1,8 @@
-<!-- Space: BaseTemplate -->
+<!-- Space: GhExtensionTemplate -->
 <!-- Parent: Project -->
 <!-- Title: Env Vars -->
 
-<!-- Label: BaseTemplate -->
+<!-- Label: GhExtensionTemplate -->
 <!-- Label: Project -->
 <!-- Label: Env Vars -->
 <!-- Include: docs/disclaimer.md -->
