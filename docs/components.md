@@ -1,8 +1,8 @@
-<!-- Space: BaseTemplate -->
+<!-- Space: GhExtensionTemplate -->
 <!-- Parent: Project -->
 <!-- Title: Components -->
 
-<!-- Label: BaseTemplate -->
+<!-- Label: GhExtensionTemplate -->
 <!-- Label: Project -->
 <!-- Label: Components -->
 <!-- Include: docs/disclaimer.md -->

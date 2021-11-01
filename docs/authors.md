@@ -1,4 +1,4 @@
-<!-- Space: BaseTemplate -->
+<!-- Space: GhExtensionTemplate -->
 <!-- Parent: Project -->
 <!-- Title: Authors -->
 
