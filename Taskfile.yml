@@ -33,7 +33,7 @@ dotenv:
   - .env
 
 vars:
-  PROJECT_NAME: base-template
+  PROJECT_NAME: gh-extension-template
   ORGANIZATION: hadenlabs
   REVIEWERS: luismayta
   PYTHON_VERSION: 3.9.2

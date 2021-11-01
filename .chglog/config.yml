@@ -2,7 +2,7 @@ style: github
 template: CHANGELOG.tpl.md
 info:
   title: CHANGELOG
-  repository_url: https://github.com/hadenlabs/base-template
+  repository_url: https://github.com/hadenlabs/gh-extension-template
 options:
   commits:
     filters:
