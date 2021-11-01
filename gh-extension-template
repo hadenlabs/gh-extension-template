@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+# -*- coding: utf-8 -*-
+
+RED="\033[0;31m"
+GREEN="\033[0;32m"
+YELLOW="\033[0;33m"
+BLUE="\033[0;36m"
+NORMAL="\033[0m"
+
+function message_error {
+    printf "${RED}%s${NORMAL}\n" "[ERROR]: ${1}"
+    exit 1
+}
+
+function message_info {
+    printf "${BLUE}%s${NORMAL}\n" "[INFO]: ${1}"
+}
+
+function message_warning {
+    printf "${YELLOW}%s${NORMAL}\n" "[WARNING]: ${1}"
+}
+
+function message_success {
+    printf "${GREEN}%s${NORMAL}\n" "🧉 [SUCCESS]: ${1}"
+}
